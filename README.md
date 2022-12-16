@@ -1,23 +1,24 @@
-# Проект: Путешествие по России
+# Project: Russian-travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+A project about traveling across Russia.
 
-**Интро**
+## You can view the project by following the [:link:link](https://elndry.github.io/russian-travel/)
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Project structure
+The project is organized according to the classical scheme of the file structure of nested-BEM projects.
 
-**Figma**
+## Technologies
+* HTML
+* CSS
+* Adaptive layout (Media query - Media feature rules)
+* Flexbox layout
+* Responsive layout (Example of using grids)
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
+## Plans for completion
+* Translate the page into English
+* Cross-browser support
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
-Удачи!
+
+
