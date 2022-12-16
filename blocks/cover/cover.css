@@ -4,18 +4,19 @@
 
 @media screen and (max-width: 1024px) {
   .cover {
-    padding: 12px 0 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover {
-    padding: 18px 0 0;
+    padding-top: 18px;
   }
 }
 
 @media screen and (max-width: 665px) {
   .cover {
-    padding: 16px 0 0;
+    padding-top: 16px;
   }
 }
